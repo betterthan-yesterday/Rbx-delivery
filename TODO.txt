@@ -1,0 +1,19 @@
+Delivery System
+  Food
+    - More exotic and expensive foods based on player level
+    - Food give extra tip modifier
+  Money
+    - Base money based on level of food
+    - Player level determined by net worth (house, car, money)
+    - Tip
+    Uses
+      - Buy/design house
+      - Buy new vehicles
+
+UI
+  Minimap
+    - See path to follow on map
+    - See available deliveries on map expansion
+
+Map
+  - Create shortcuts all over

@@ -17,3 +17,7 @@ UI
 
 Map
   - Create shortcuts all over
+
+Gamepass
+  - Free glider
+  - More tip
